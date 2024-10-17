@@ -29,5 +29,8 @@
     border-color: red;
     border-width: 3px;
     border-radius: 15px;
-
+}
+.margin-text{
+    background-color: lightblue;
+    margin: 30px;
 }
