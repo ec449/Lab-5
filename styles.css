@@ -42,3 +42,7 @@
     margin-right: 40px;
 
 }
+.inline-element{
+    background-color: lightpink;
+    display: inline;
+}
