@@ -50,3 +50,7 @@
     background-color: lightcyan;
     display: block;
 }
+.inline-block-element{
+    background-color: cadetblue;
+    display: inline-block;
+}
