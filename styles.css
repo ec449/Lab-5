@@ -34,3 +34,11 @@
     background-color: lightblue;
     margin: 30px;
 }
+.custom-margin{
+    background-color: lightcoral;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
