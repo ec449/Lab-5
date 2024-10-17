@@ -58,3 +58,7 @@
     background-color: chocolate;
     display: none;
 }
+.visible-element{
+    background-color: darkseagreen;
+    visibility: visible;
+}
