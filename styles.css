@@ -54,3 +54,7 @@
     background-color: cadetblue;
     display: inline-block;
 }
+.hidden-element{
+    background-color: chocolate;
+    display: none;
+}
