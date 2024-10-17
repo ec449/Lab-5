@@ -46,3 +46,7 @@
     background-color: lightpink;
     display: inline;
 }
+.block-element{
+    background-color: lightcyan;
+    display: block;
+}
