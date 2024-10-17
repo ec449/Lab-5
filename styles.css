@@ -1,21 +1,33 @@
 .box{
+    background-color: blue;
     height: 200px;
     width:300px;
 }
 .responsive-box{
+    background-color: red;
     width:50vw;
     height:50vh;
 }
 .padded-text{
+    background-color: aqua;
     padding:20px;
 }
 .custom-padding{
+    background-color: blueviolet;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
 }
 .border-box{
+    background-color: brown;
     border:black,2px,solid;
+}
+.rounded-border{
+    background-color: lightgreen;
+    border-style: dotted;
+    border-color: red;
+    border-width: 3px;
+    border-radius: 15px;
 
 }
